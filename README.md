@@ -11,8 +11,8 @@ This CRUD calculates the tax and superannuation of the staff members added.
 
 ## Screenshot
 
-<img src= Documentation/ScreenShot1.gif  height="640" width="480">      
-<img src= Documentation/ScreenShot2.gif height="640" width="480">
+<img src= Documentation/ScreenShot1.gif  height="480" width="640">      
+<img src= Documentation/ScreenShot2.gif height="480" width="640">
 
 
 ## What I learned with this crud
